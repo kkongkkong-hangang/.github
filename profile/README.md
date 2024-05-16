@@ -37,7 +37,7 @@
 <table>
   <tr>
      <td align="center"><a href="https://github.com/cu29635"><img src="https://github.com/cu29635.png" width="100px;" alt=""/><br/><sub><b>이규리</b></sub></a><br/></td>
- <td align="center"><a href="https://github.com/"><img src="https://github.com/" width="100px;" alt=""/><br/><sub><b>임영빈</b></sub></a><br/></td> -
+ <td align="center"><a href="https://github.com/Yyeongbin"><img src="https://github.com/Yyeongbin.png" width="100px;" alt=""/><br/><sub><b>임영빈</b></sub></a><br/></td> -
      <td align="center"><a href="https://github.com/chldudwns"><img src="https://github.com/chldudwns.png" width="100px;" alt=""/><br/><sub><b>최영준</b></sub></a><br/></td>
      <td align="center"><a href="https://github.com/backcastleh"><img src="https://github.com/backcastleh.png" width="100px;" alt=""/><br/><sub><b>백성현</b></sub></a><br/></td>
   </tr>
